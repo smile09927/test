@@ -1,4 +1,5 @@
 #include<stdio.h>
-int main(){
-printf("helloworld/n");
+  int main(){
+  printf("hello github/n");
+  return 0;
 }
